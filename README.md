@@ -7,7 +7,7 @@
 - [General info](#general-info)
 - [files](#files)
 - [Setup](#setup)
-- [.vscode config file](https://github.com/ullaskunder3/graphics.h-setup)
+- [.vscode config file](https://github.com/kumarbaberval/graphics.h-setup)
 
 My Workspace Dir and code example
 
@@ -39,7 +39,7 @@ You could also try SFML. It has quite a following. You'll have a large community
 
 ## Setup
 
-Know the difference between MINGW, Mingw-w64 && TDM [learn more go, go, go...](https://github.com/ullaskunder3/cpp-setup-vsCode#setup)
+
 
 UPDATE:
 switching from `MinGW` to `TDM-GCC-32`
@@ -135,25 +135,12 @@ Now To set up graphics.h in vs code using MINGW:
 
 alternative video instruction in `hindi` to setup graphics.h lib in vscode
 
-[<img src="https://i.imgur.com/P8xiypZ.png" alt="How to setup graphic.h library in Visual Studio Code | Computer Graphics in VS Code | CGMA " width="50%" />](https://www.youtube.com/embed/ijrNSHwXDAc "How to setup graphic.h library in Visual Studio Code | Computer Graphics in VS Code | CGMA" )
+[<img src="[https://i.imgur.com/P8xiypZ.png" alt="How to setup graphic.h library in Visual Studio Code | Computer Graphics in VS Code | CGMA " width="50%](https://www.youtube.com/watch?v=QMom7QbX7IM&t=363s)" />]([https://www.youtube.com/embed/ijrNSHwXDAc "How to setup graphic.h library in Visual Studio Code | Computer Graphics in VS Code | CGMA](https://www.youtube.com/watch?v=QMom7QbX7IM&t=363s)" )
 
  Alternative step wise instruction to setup MinGW along with graphics library (graphics.h)
 
-- ReadME [MinGW & graphics.h setup](https://github.com/sagargoswami2001/Setup-Graphics.h-for-Visual-Studio-Code/blob/main/README.md)
 
-## Contributors ✨
 
-Thanks to these wonderful people:
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/Prakash4844"><img src="https://avatars.githubusercontent.com/u/81550376?v=4" width="100px;" alt=""/><br /><sub><b>Prakash4844</b></sub></a><br />
-    <a href="#question-Prakash4844" title="Answering Questions">💬</a> <a href="https://github.com/ullaskunder3/Solution-to-graphics.h/commits?author=Prakash4844" title="Documentation">📖</a>
-     <td align="center"><a href="https://github.com/sagargoswami2001"><img src="https://avatars.githubusercontent.com/u/88379870?v=4" width="100px;" alt=""/><br /><sub><b>sagargoswami2001</b></sub></a><br />
-    <a href="#question-sagargoswami2001" title="Answering Questions">💬</a> <a href="https://github.com/ullaskunder3/Solution-to-graphics.h/commits?author=sagargoswami2001" title="Documentation">📖</a>
-  </tr>
 
-</table>
+
