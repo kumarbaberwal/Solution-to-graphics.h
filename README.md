@@ -1,4 +1,3 @@
-# [![Author](https://img.shields.io/badge/Auther---Ullas-blu)](https://img.shields.io/badge/Auther---Ullas-blu?utm_source=github.com&utm_medium=campaign&utm_content=button&utm_campaign=dmhendricks%2Ffile-icon-vectors)
 
 ## Setting up graphics library (graphics.h) in Visual Studio Code (c++)
 
@@ -7,7 +6,7 @@
 - [General info](#general-info)
 - [files](#files)
 - [Setup](#setup)
-- [.vscode config file](https://github.com/kumarbaberval/graphics.h-setup/.vscode)
+- [.vscode config file](https://github.com/kumarbaberval/Solution-to-graphics.h/.vscode)
 
 My Workspace Dir and code example
 
