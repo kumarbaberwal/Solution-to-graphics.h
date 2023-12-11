@@ -6,7 +6,7 @@
 - [General info](#general-info)
 - [files](#files)
 - [Setup](#setup)
-- [.vscode config file]([https://github.com/kumarbaberval/Solution-to-graphics.h/.vscode/](https://github.com/kumarbaberval/Solution-to-graphics.h/tree/main/.vscode))
+- [.vscode config file](https://github.com/kumarbaberval/Solution-to-graphics.h/tree/main/.vscode)
 
 My Workspace Dir and code example
 
