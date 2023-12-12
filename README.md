@@ -134,7 +134,7 @@ Now To set up graphics.h in vs code using MINGW:
 
 alternative video instruction in `hindi` to setup graphics.h lib in vscode
 
-[<img src="[https://i.imgur.com/P8xiypZ.png" alt="How to setup graphic.h library in Visual Studio Code | Computer Graphics in VS Code | CGMA " width="50%](https://www.youtube.com/watch?v=QMom7QbX7IM&t=363s)" />]([https://www.youtube.com/embed/ijrNSHwXDAc "How to setup graphic.h library in Visual Studio Code | Computer Graphics in VS Code | CGMA](https://www.youtube.com/watch?v=QMom7QbX7IM&t=363s)" )
+<a herf="https://www.youtube.com/watch?v=QMom7QbX7IM">
 
  Alternative step wise instruction to setup MinGW along with graphics library (graphics.h)
 
