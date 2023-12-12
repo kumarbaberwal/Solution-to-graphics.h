@@ -130,11 +130,6 @@ Running the file using command in termainl:
 
 ---
 
-Now To set up graphics.h in vs code using MINGW:
-
-alternative video instruction in `hindi` to setup graphics.h lib in vscode
-
-<a herf=(https://www.youtube.com/watch?v=QMom7QbX7IM)>
 
  Alternative step wise instruction to setup MinGW along with graphics library (graphics.h)
 
